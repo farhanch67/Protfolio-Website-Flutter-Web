@@ -22,14 +22,14 @@ class AboutSection extends StatelessWidget {
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                      "Eager to join Cyclone Inc. to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.",
                 ),
               ),
-              ExperienceCard(numOfExp: "08"),
+              ExperienceCard(numOfExp: "02"),
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                      "In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 35% when resolved.",
                 ),
               ),
             ],
